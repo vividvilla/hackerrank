@@ -1,6 +1,9 @@
 # Solutions to [Interviewstreet][1] problems
 
-This repository contains solutions to [Interviewstreet][1] problems, available at [http://www.interviewstreet.com][1]. These solutions are provided "as is". I give no guarantees that they will work as expected. Please refrain from using my solutions in the site.
+This repository contains solutions to [Interviewstreet][1] problems, available
+at [http://www.interviewstreet.com][1]. These solutions are provided "as is". I
+give no guarantees that they will work as expected. Please refrain from using my
+solutions in the site.
 
 ## Problems solved
 
