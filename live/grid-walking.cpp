@@ -5,16 +5,6 @@ using namespace std;
 
 #define MOD 1000000007
 
-long long modMultiplication(long long a, long long b) {
-    long long res = 0;
-    while (a != 0) {
-        if (a & 1) res = (res + b) % MOD;
-        a >>= 1;
-        b = (b << 1) % MOD;
-    }
-    return res;
-}
-
 int getWays(vector<int> x, vector<int> d, int M) {
     int N = d.size();
 
@@ -62,9 +52,8 @@ int getWays(vector<int> x, vector<int> d, int M) {
             for (int k = 0; k <= j; k++)
                 mdt[j][i] =
                     (mdt[j][i] +
-                     modMultiplication(c[j][j - k],
-                                       modMultiplication(mdt[k][i - 1],
-                                                         md[j - k][i]))) % MOD;
+                     ((c[j][j - k] *
+                       ((mdt[k][i - 1] * md[j - k][i]) % MOD)) % MOD)) % MOD;
         }
     }
 
