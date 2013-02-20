@@ -14,6 +14,7 @@ The following is a possibly innacurate list of the problems solved:
 #### Algorithmic Tutorials
 
 * Insertion Sort - Part 1 (`insertion-sort-part-1.cpp`)
+* Insertion Sort - Part 2 (`insertion-sort-part-2.cpp`)
 
 #### Graph Theory
 
