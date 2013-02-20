@@ -11,6 +11,10 @@ The following is a possibly innacurate list of the problems solved:
 
 ### Algorithmic Challenges
 
+#### Algorithmic Tutorials
+
+* Insertion Sort - Part 1 (`insertion-sort-part-1.cpp`)
+
 #### Graph Theory
 
 * Grid Walking (`grid-walking.cpp`)
