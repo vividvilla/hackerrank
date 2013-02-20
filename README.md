@@ -17,6 +17,7 @@ The following is a possibly innacurate list of the problems solved:
 * Insertion Sort - Part 2 (`insertion-sort-part-2.cpp`)
 * Running Time of Algorithms (`running-time-of-algorithms.cpp`)
 * QuickSort1 - Partition (`quicksort1-partition.cpp`)
+* QuickSort (`quicksort.cpp`)
 
 #### Graph Theory
 
