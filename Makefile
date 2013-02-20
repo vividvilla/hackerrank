@@ -1,4 +1,4 @@
-CC_FILES = $(wildcard */*.cpp)
+CC_FILES = $(wildcard */*/*.cpp)
 BIN_FILES = $(patsubst %.cpp, %.out, $(CC_FILES))
 CC_FLAGS = -Wall -O2 -lm
 CC = g++
