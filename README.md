@@ -19,6 +19,10 @@ The following is a possibly innacurate list of the problems solved:
 * QuickSort1 - Partition (`quicksort1-partition.cpp`)
 * QuickSort (`quicksort.cpp`)
 
+#### Search
+
+* Pairs (`pairs.cpp`)
+
 #### Graph Theory
 
 * Grid Walking (`grid-walking.cpp`)
