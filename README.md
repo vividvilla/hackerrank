@@ -22,9 +22,14 @@ The following is a possibly innacurate list of the problems solved:
 #### Search
 
 * Pairs (`pairs.cpp`)
+* Median (`median.cpp`)
 
 #### Graph Theory
 
 * Grid Walking (`grid-walking.cpp`)
+
+### Weekly Contest
+
+* Oobleck Boxes (`oobleck-boxes.cpp`)
 
 [1]: http://www.hackerrank.com
