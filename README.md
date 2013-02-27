@@ -5,6 +5,23 @@ This repository contains solutions to [HackerRank][1] problems, available at
 guarantees that they will work as expected. Please refrain from using my
 solutions in the site.
 
+## Instructions
+
+You can compile all the problems by issuing the following command:
+
+    $ make
+
+If you want to compile only a specific problem, issue the following command,
+replacing `<problem_id>` with the id of the problem you want to compile (see
+section "Problems Solved" for the list of possible ids):
+
+    $ make <problem_id>
+
+Running a compiled problem is just a matter of executing a command similar to
+the next one, replacing `candies` with the id of the desired problem:
+
+    $ candies
+
 ## Problems solved
 
 The following is a possibly innacurate list of the problems solved:
@@ -13,29 +30,29 @@ The following is a possibly innacurate list of the problems solved:
 
 #### Algorithmic Tutorials
 
-* Insertion Sort - Part 1 (`insertionsort1.cpp`)
-* Insertion Sort - Part 2 (`insertionsort2.cpp`)
-* Running Time of Algorithms (`runningtime.cpp`)
-* QuickSort1 - Partition (`quicksort1.cpp`)
-* QuickSort (`quicksort2.cpp`)
+* Insertion Sort - Part 1 (`insertionsort1`)
+* Insertion Sort - Part 2 (`insertionsort2`)
+* Running Time of Algorithms (`runningtime`)
+* QuickSort1 - Partition (`quicksort1`)
+* QuickSort (`quicksort2`)
 
 #### Search
 
-* Pairs (`pairs.cpp`)
-* Median (`median.cpp`)
-* Flowers (`flowers.cpp`)
+* Pairs (`pairs`)
+* Median (`median`)
+* Flowers (`flowers`)
 
 ### Dynamic Programming
 
-* Candies (`candies.cpp`)
+* Candies (`candies`)
 
 #### Graph Theory
 
-* Grid Walking (`grid-walking.cpp`)
+* Grid Walking (`grid-walking`)
 
 ### Weekly Contests
 
-* Oobleck Boxes (`oobleck-boxes.cpp`)
-* Largest Sum Less Than M (`largest-sum-m.cpp`)
+* Oobleck Boxes (`oobleck-boxes`)
+* Largest Sum Less Than M (`largest-sum-m`)
 
 [1]: http://www.hackerrank.com
