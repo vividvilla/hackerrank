@@ -1,4 +1,4 @@
-CC_FILES = $(wildcard weekly/*.cpp) $(wildcard algorithmic-challenges/*/*.cpp)
+CC_FILES = $(wildcard weekly/*.cpp) $(wildcard algorithm/*/*.cpp)
 BIN_FILES = $(patsubst %.cpp, %.out, $(CC_FILES))
 CC_FLAGS = -Wall -O2 -lm
 CC = g++
