@@ -23,6 +23,7 @@ The following is a possibly innacurate list of the problems solved:
 
 * Pairs (`pairs.cpp`)
 * Median (`median.cpp`)
+* Flowers (`flowers.cpp`)
 
 #### Graph Theory
 
