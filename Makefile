@@ -13,4 +13,4 @@ check-syntax:
 	$(CC) $(CC_FLAGS) -o $@ $<
 
 clean:
-	rm $(BIN_FILES)
+	rm -f $(BIN_FILES)
