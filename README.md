@@ -20,7 +20,7 @@ section "Problems Solved" for the list of possible ids):
 Running a compiled problem is just a matter of executing a command similar to
 the next one, replacing `candies` with the id of the desired problem:
 
-    $ candies
+    $ ./candies
 
 ## Problems solved
 
