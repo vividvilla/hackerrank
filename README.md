@@ -22,14 +22,14 @@ The following is a possibly innacurate list of the problems solved:
 #### Search
 
 * Pairs (`pairs.cpp`)
-* Median (`median.cpp`)
 
 #### Graph Theory
 
 * Grid Walking (`grid-walking.cpp`)
 
-### Weekly Contest
+### Weekly Contests
 
 * Oobleck Boxes (`oobleck-boxes.cpp`)
+* Largest Sum Less Than M (`largest-sum-less-than-m.cpp`)
 
 [1]: http://www.hackerrank.com
