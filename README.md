@@ -25,6 +25,10 @@ The following is a possibly innacurate list of the problems solved:
 * Median (`median.cpp`)
 * Flowers (`flowers.cpp`)
 
+### Dynamic Programming
+
+* Candies (`candies.cpp`)
+
 #### Graph Theory
 
 * Grid Walking (`grid-walking.cpp`)
