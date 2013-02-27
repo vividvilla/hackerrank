@@ -13,11 +13,11 @@ The following is a possibly innacurate list of the problems solved:
 
 #### Algorithmic Tutorials
 
-* Insertion Sort - Part 1 (`insertion-sort-part-1.cpp`)
-* Insertion Sort - Part 2 (`insertion-sort-part-2.cpp`)
-* Running Time of Algorithms (`running-time-of-algorithms.cpp`)
-* QuickSort1 - Partition (`quicksort1-partition.cpp`)
-* QuickSort (`quicksort.cpp`)
+* Insertion Sort - Part 1 (`insertionsort1.cpp`)
+* Insertion Sort - Part 2 (`insertionsort2.cpp`)
+* Running Time of Algorithms (`runningtime.cpp`)
+* QuickSort1 - Partition (`quicksort1.cpp`)
+* QuickSort (`quicksort2.cpp`)
 
 #### Search
 
@@ -32,6 +32,6 @@ The following is a possibly innacurate list of the problems solved:
 ### Weekly Contests
 
 * Oobleck Boxes (`oobleck-boxes.cpp`)
-* Largest Sum Less Than M (`largest-sum-less-than-m.cpp`)
+* Largest Sum Less Than M (`largest-sum-m.cpp`)
 
 [1]: http://www.hackerrank.com
