@@ -22,6 +22,7 @@ The following is a possibly innacurate list of the problems solved:
 #### Search
 
 * Pairs (`pairs.cpp`)
+* Median (`median.cpp`)
 
 #### Graph Theory
 
